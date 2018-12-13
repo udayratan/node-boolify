@@ -1,0 +1,59 @@
+{
+  "_from": "node-boolify",
+  "_inBundle": false,
+  "_integrity": "sha512-w6FjwD/Iiw9UNgmJbU/Q0msyN9doFZrazvoavUyc7GAgdZ/D8/PM6mBUoGJfrMOczaP66TLdLg/LXXT/flSwLA==",
+  "_location": "/node-boolify",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "node-boolify",
+    "name": "node-boolify",
+    "escapedName": "node-boolify",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-boolify/-/node-boolify-1.0.1.tgz",
+  "_shasum": "191c0dc49d7b465d064e6b876a69a479603d6672",
+  "_spec": "node-boolify",
+  "_where": "/Users/uday/Projects/boolify",
+  "author": "ratan.uday.kumar@gmail.com",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This package is use for Validating whether variable is boolean or not and converting boolean variable to javascript boolean.",
+  "keywords": [
+    "boolean",
+    "validation",
+    "javascript",
+    "node.js",
+    "isBoolean",
+    "param",
+    "fields",
+    "bool",
+    "boolify",
+    "booleanify",
+    "node",
+    "npm",
+    "toBoolean"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "node-boolify",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.5",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udayratan/node-boolify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/udayratan/node-boolify/issues"
+  },
+  "homepage": "https://github.com/udayratan/node-boolify#readme"
+}
