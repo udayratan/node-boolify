@@ -6,7 +6,7 @@ Boolify is a powerful boolean based module for Nodejs.
   - It is use for Validating whether argument is boolean
   - It is use for parsing to javascript Boolean value.
 
- # Boolify Installation!
+# Boolify Installation!
 ```
     npm  install --save node-boolify
 ```
